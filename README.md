@@ -43,6 +43,7 @@ To run this project locally, follow these steps:
    npm run dev
    http://localhost:5173/
 5. Manage User Permission:
+   ```bash
    Username = user
    Password = pasword
    
